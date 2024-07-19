@@ -6,7 +6,7 @@
 .main .inner {
   flex-direction: column;
 }
-.main-top {g
+.main-top {
   width: 100%;
   display: flex;
   gap: 2.564vw;
@@ -40,5 +40,4 @@
 .banner-wrap .swiper-slide {
   width: 100%;
   height: 100%;
-  
 }
